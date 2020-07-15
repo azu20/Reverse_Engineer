@@ -6,6 +6,11 @@ This is a different approach to web development. Rather than having a team membe
 
 dissected the code and in a Google Doc, have documented a tutorial explaining every file and it’s purpose.
 
+## Deployed Google Doc Tutorial: 
+
+https://docs.google.com/document/d/1YUOJ-84KsiYwfIIywlgymAc4lK-Cexks_yeJurCZfQM/edit?usp=sharing
+
+## User Story: 
 ```
 AS A developer
 
